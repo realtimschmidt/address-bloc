@@ -186,7 +186,7 @@ class MenuController
         edit_entry(entry)
         system "clear"
         main_menu
-      when "m-"
+      when "m"
         system "clear"
         main_menu
       else
